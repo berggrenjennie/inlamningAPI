@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+
+}
+
+
+.card{
+  border:1px solid #EEEAE9;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  width: 400px;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color:#FAF6F5;
+}
+
+#showHide {
+  float: left;
+  padding-bottom: 15px;
+  color: #337ab7;
+}
+
+.btn-danger{
+  color: #fff;
+  background-color: #bb6596;
+  border-color: #983f94;
+  height: 30px;
+  width: 90px;
+}
+
+.btn-success{
+color: #fff;
+background-color: #dc39d9;
+border-color: #a54cae;
+}
+
+#btn {
+  margin-bottom: 20px;
+}
+.cardBtn{
+  height:40px;
+  width: 100px;
+  font-weight: bold;
+  float: right;
+}
+
+.loginBtn{
+  width: 100px;
+  float: left;
+  margin-left: 60px;
+  margin-bottom: 15px;
+}
+
+.inputForm{
+  height:50px;
+  width: 250px;
+  margin-left: 55px;
+}
